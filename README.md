@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-An applet I created to play around with an open API and get to grips with the practicality of accessing one. I used the OpenWeather API to create this app that tells you the weather in your city.
+An applet I created to play around with an open API and get to grips with the practicality of accessing one. I used the OpenWeather API to create this app that tells you the weather in your city. You will need to get a (free) API key to get this to work. Go to [OpenWeather](https://openweathermap.org/api) and add a .env file in the root with this inside it:
+
+WEATHER_API_KEY=xxxxxxxxxxxxxxxxxx
 
 ## How to start
 
