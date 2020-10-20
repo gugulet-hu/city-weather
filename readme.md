@@ -1,4 +1,4 @@
-![city-weather](city-weather-screenshot-1200x422-1.jpg)
+![city-weather](https://github.com/gugulet-hu/city-weather/blob/master/city-weather-screenshot-1200x422.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
