@@ -1,4 +1,4 @@
-![city-weather](https://gugulet.hu/site/wp-content/uploads/city-weather-screenshot-1200x422-1.jpg)
+![city-weather](city-weather-screenshot-1200x422-1.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
